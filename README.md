@@ -74,3 +74,25 @@ Shankaracharya (Adi Shankara) and Ramanuja were prominent Indian philosophers.
    - **Key Concepts:** Bhakti (devotion) as a path to salvation, and the interconnectedness of the individual soul (jiva) with the Supreme Reality (Brahman).
 
 Both philosophers significantly influenced Hindu thought and left lasting impacts on the Vedanta tradition.
+
+## Geography:
+### 3. Arvind is a sailor and he wants to sail in the sea. Suggest him the best time to sail so as to reach the
+sea shore easily. Also tell in which time he will not be able to catch the maximum fishes. 
+### Answer
+Arvind, as a sailor, should consider sailing during high tide for easier navigation to the sea shore. High tide provides more water depth, reducing the risk of running aground. 
+
+However, for fishing, it's generally less productive during high tide, as fish tend to be more scattered. Optimal fishing times are often during the incoming or outgoing tide when water movement is more pronounced, making it easier to attract and catch fish.
+### 4. Research for Indian rivers and try to trace it on the physical map of India. Also research for the
+mythological beliefs associated with any two Indian rivers like Ganga, Yamuna, Kaveri etc.
+### Answer
+**Indian Rivers and Physical Map:**
+   - **Ganga:** Originating from the Gangotri Glacier, it flows through northern India and Bangladesh, eventually emptying into the Bay of Bengal. On the physical map, it traverses through northern and eastern India.
+   - **Yamuna:** Originating from the Yamunotri Glacier, it flows parallel to the Ganga and meets it at Allahabad. Mapped in northern India.
+   - **Kaveri (Cauvery):** Originating in the Western Ghats, it flows through Karnataka and Tamil Nadu, reaching the Bay of Bengal. Visible in the southern part of the Indian map.
+
+**Mythological Beliefs:**
+   - **Ganga:** Considered sacred in Hinduism, the Ganga is believed to have descended from the heavens to purify the souls of the departed. Bathing in the Ganges is considered spiritually cleansing, and the river is personified as the goddess Ganga.
+   - **Yamuna:** Revered as the sister of Yama, the god of death, the Yamuna holds significance in Hindu mythology. The story of Lord Krishna's childhood exploits, particularly his dalliances with the gopis (milkmaids), is often associated with the banks of the Yamuna.
+
+These rivers are not only integral to India's physical geography but also deeply woven into its cultural and religious fabric.
+ 
